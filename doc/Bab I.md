@@ -26,7 +26,8 @@ Dalam penyusunan proposal proyek ini terdapat ruang lingkup sebagai berikut :
 3.	Mengolah Transaksi Peminjaman dan Pengembalian agar tidak berlangsung terlalu lama.
 4.	Memberikan laporan dalam mingguan dan bulanan.
 
-1.5	Jadwal Kegiatan Pengerjaan Proyek
+**1.5**** Jadwal Kegiatan Pengerjaan Proyek**
+
 | Kegiatan | Oktober | November | Desember | Januari | Februari |
 | --- | --- | --- | --- | --- | --- |
 | Minggu | Minggu | Minggu | Minggu | Minggu |
@@ -35,7 +36,7 @@ Dalam penyusunan proposal proyek ini terdapat ruang lingkup sebagai berikut :
 | Proses Bimbingan | | | | | | | | | | | | | | | | | | | | |
 | Pengumpulan draft laporan | | | | | | | | | | | | | | | | | | | | |
 | Sidang Proyek I | | | | | | | | | | | | | | | | | | | | |
-| Pengumpulan distribusi CD dan Jurnal Proyek I | | | | | | | | | | | | | | | | | | | | |																				
+| Pengumpulan distribusi CD dan Jurnal Proyek I | | | | | | | | | | | | | | | | | | | | |																			
 
 Gambar 1.1 Jadwal Kegiatan
  
